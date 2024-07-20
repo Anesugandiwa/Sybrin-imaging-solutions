@@ -1,0 +1,57 @@
+/*@import "bootstrap/dist/css/bootstrap.min.css";*/
+
+.inertiaLink{
+    width: 100%;
+    text-decoration: unset !important;
+    color: unset !important;
+}
+
+
+.h-100{
+    height: 100vh !important;
+}
+
+.glass {
+    background: rgba(255, 255, 255, 0.5) !important;
+    box-shadow: 6px 8px 25px rgba(0, 100, 0, 0.1) !important;
+    backdrop-filter: blur(0px) !important;
+    -webkit-backdrop-filter: blur(0px) !important;
+    border: 1px solid rgba(255, 255, 255, 0.64) !important;
+}
+
+.glass-shadow{
+    box-shadow: 6px 8px 25px rgba(0, 100, 0, 0.1) !important;
+    backdrop-filter: blur(0px) !important;
+    -webkit-backdrop-filter: blur(0px) !important;
+    border: 1px solid rgba(255, 255, 255, 0.64) !important;
+}
+
+.glass-background {
+    background: rgba(255, 255, 255, 0.85) !important;
+    box-shadow: 3px 3px 8px rgba(0, 100, 0, 0.1) !important;
+}
+
+
+.glass-border {
+    border: 1px solid rgba(215, 215, 215, 0.64) !important;
+}
+
+
+.no-uppercase{
+    text-transform: unset !important;
+}
+
+.cursor-hand{
+    cursor: pointer !important;
+}
+
+._15px{
+    font-size: 15px !important;
+}
+._18px{
+    font-size: 18px !important;
+}
+
+._20px{
+    font-size: 20px !important;
+}
